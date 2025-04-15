@@ -1,4 +1,4 @@
-package rotateImage_48;
+package org.example.rotateImage_48;
 
 public class Solution {
 	public void rotate(int[][] matrix) {

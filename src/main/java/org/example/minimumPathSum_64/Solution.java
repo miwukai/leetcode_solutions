@@ -1,4 +1,4 @@
-package minimumPathSum_64;
+package org.example.minimumPathSum_64;
 
 public class Solution {
 

@@ -1,4 +1,4 @@
-package longestValidParentheses_32;
+package org.example.longestValidParentheses_32;
 
 import java.util.Stack;
 

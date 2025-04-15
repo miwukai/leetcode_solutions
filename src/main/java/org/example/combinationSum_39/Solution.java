@@ -1,4 +1,4 @@
-package combinationSum_39;
+package org.example.combinationSum_39;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package deleteNodeInABST_450;
+package org.example.deleteNodeInABST_450;
 
 import model.TreeNode;
 

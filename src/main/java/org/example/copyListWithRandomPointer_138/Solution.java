@@ -1,4 +1,4 @@
-package copyListWithRandomPointer_138;
+package org.example.copyListWithRandomPointer_138;
 
 import model.RandomNode;
 

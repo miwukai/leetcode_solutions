@@ -1,4 +1,4 @@
-package binaryTreeZigzagLevelOrderTraversal_103;
+package org.example.binaryTreeZigzagLevelOrderTraversal_103;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package findMedianSortedArrays_4;
+package org.example.findMedianSortedArrays_4;
 
 public class Solution {
 	public double findMedianSortedArrays(int[] nums1, int[] nums2) {

@@ -1,4 +1,4 @@
-package reverseList_206;
+package org.example.reverseList_206;
 
 import model.ListNode;
 

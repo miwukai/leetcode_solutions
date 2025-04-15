@@ -1,4 +1,4 @@
-package subarraySumEqualsK_560;
+package org.example.subarraySumEqualsK_560;
 
 import java.util.HashMap;
 import java.util.Map;

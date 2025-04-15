@@ -1,4 +1,4 @@
-package lengthOfLongestSubstring_3;
+package org.example.lengthOfLongestSubstring_3;
 
 import java.util.ArrayList;
 import java.util.List;

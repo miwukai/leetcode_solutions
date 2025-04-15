@@ -1,4 +1,4 @@
-package mergeIntervals_56;
+package org.example.mergeIntervals_56;
 
 public class Solution {
 	public int[][] merge(int[][] intervals) {

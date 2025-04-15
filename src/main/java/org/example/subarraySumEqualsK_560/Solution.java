@@ -1,4 +1,4 @@
-package subarraySumEqualsK_560;
+package org.example.subarraySumEqualsK_560;
 
 public class Solution {
 	public int subarraySum(int[] nums, int k) {

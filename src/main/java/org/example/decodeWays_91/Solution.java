@@ -1,4 +1,4 @@
-package decodeWays_91;
+package org.example.decodeWays_91;
 
 public class Solution {
 

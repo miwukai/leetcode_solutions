@@ -1,4 +1,4 @@
-package mergeKSortedLists_23;
+package org.example.mergeKSortedLists_23;
 
 import java.util.PriorityQueue;
 

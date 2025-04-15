@@ -1,4 +1,4 @@
-package maximumSubarray_53;
+package org.example.maximumSubarray_53;
 
 public class Solution {
 	public int maxSubArray(int[] nums) {

@@ -1,4 +1,4 @@
-package addTwoNumbers_2;
+package org.example.addTwoNumbers_2;
 
 import model.ListNode;
 

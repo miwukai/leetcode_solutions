@@ -1,4 +1,4 @@
-package longestPalindrome_5;
+package org.example.longestPalindrome_5;
 
 public class Solution {
 	public String longestPalindrome(String s) {

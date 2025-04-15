@@ -1,4 +1,4 @@
-package binaryTreeLevelOrderTraversal_102;
+package org.example.binaryTreeLevelOrderTraversal_102;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

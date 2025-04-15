@@ -1,4 +1,4 @@
-package mergeIntervals_56;
+package org.example.mergeIntervals_56;
 
 import java.util.ArrayList;
 import java.util.Arrays;

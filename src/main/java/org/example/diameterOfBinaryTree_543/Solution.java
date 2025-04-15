@@ -1,4 +1,4 @@
-package diameterOfBinaryTree_543;
+package org.example.diameterOfBinaryTree_543;
 
 import model.TreeNode;
 

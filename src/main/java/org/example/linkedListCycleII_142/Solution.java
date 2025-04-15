@@ -1,4 +1,4 @@
-package linkedListCycleII_142;
+package org.example.linkedListCycleII_142;
 
 import model.ListNode;
 

@@ -1,4 +1,4 @@
-package mergeTwoSortedLists_21;
+package org.example.mergeTwoSortedLists_21;
 
 import model.ListNode;
 

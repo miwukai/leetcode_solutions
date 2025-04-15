@@ -1,4 +1,4 @@
-package validParentheses_20;
+package org.example.validParentheses_20;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package threeSum_15;
+package org.example.threeSum_15;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package binaryTreeMaximumPathSum_124;
+package org.example.binaryTreeMaximumPathSum_124;
 
 import model.TreeNode;
 

@@ -1,4 +1,4 @@
-package permutationsII_47;
+package org.example.permutationsII_47;
 
 import java.util.ArrayList;
 import java.util.Arrays;

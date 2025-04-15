@@ -1,4 +1,4 @@
-package solvingQuestionsWithBrainpower_2140;
+package org.example.solvingQuestionsWithBrainpower_2140;
 
 public class Solution {
 	public long mostPoints(int[][] questions) {

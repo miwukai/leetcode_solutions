@@ -1,4 +1,4 @@
-package lowestCommonAncestor_236;
+package org.example.lowestCommonAncestor_236;
 
 public class Solution {
 	

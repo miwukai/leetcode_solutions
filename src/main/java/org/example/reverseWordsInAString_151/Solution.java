@@ -1,4 +1,4 @@
-package reverseWordsInAString_151;
+package org.example.reverseWordsInAString_151;
 
 public class Solution {
 	public String reverseWords(String s) {

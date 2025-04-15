@@ -1,4 +1,4 @@
-package validateBinarySearchTree_98;
+package org.example.validateBinarySearchTree_98;
 
 import model.TreeNode;
 

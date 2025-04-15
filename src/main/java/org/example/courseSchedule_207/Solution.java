@@ -1,4 +1,4 @@
-package courseSchedule_207;
+package org.example.courseSchedule_207;
 
 import java.util.ArrayList;
 import java.util.HashMap;
